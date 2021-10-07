@@ -1,0 +1,36 @@
+*{
+  margin:0px;
+  padding:0px;
+}
+.pies{
+  background-color: grey;
+  width: 25%;
+  flex: 10;
+  float: left;
+}
+.kot{
+  background-color: lightgrey;
+  flex: 1;
+  width: 100%;
+  float:top;
+
+}
+.sekcja{
+
+  background-color: orange;
+  width:25%;
+  border: solid;
+  flex:1px;
+  float: left;
+
+
+}
+.krowa{
+  background-color: blue;
+  flex: 1;
+  width: 25%;
+
+}
+article {
+  border: solid
+}

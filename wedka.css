@@ -1,0 +1,45 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+.wrapper {
+  height: 500px;
+  background-color: #FAEBD7;
+  color: white;
+  margin: 0 auto;
+  font-style: Garamond;
+  font-size: 20px;
+}
+.cos0 {
+  width:auto;
+  height:100px;
+  background-color: #3CB371;
+  text-align: center;
+}
+
+.cos1 {
+  height: auto;
+  float:left;
+  margin-top: 10px;
+  margin-left: 10px;
+  border-style: dashed;
+  border-width: 2px;
+  border-color: #3CB371;
+
+}
+.obok{
+  margin: 10px;
+  flex: 10;
+  color: black;
+}
+.cos2 {
+  float:none;
+  height:100px;
+  background-color: #3CB371;
+  text-align: center;
+  color: white;
+
+
+  font-style: Garamond;
+  font-size: 130%;
+}

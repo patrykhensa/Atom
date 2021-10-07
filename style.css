@@ -1,0 +1,84 @@
+*{
+  margin:0px;
+  padding:0px;
+}
+.wrapper100 {
+  background-color: lightgreen;
+  width: 1000px;
+  height: 1000px;
+  margin: 0 auto;
+  border: 2px solid black;
+}
+.wrapper {
+  background-color: grey;
+  width: 1000px;
+  height: 800px;
+  margin: 0 auto;
+}
+
+#klasa1 {
+  background-color: red;
+  height: 20%;
+  width: 80%;
+  float: right;
+
+}
+.klasa2 {
+  background-color: green;
+  width: 20%;
+  height: 20%;
+  float: top;
+}
+.klasa3 {
+  background-color: pink;
+  width: 20%;
+  height: 80%;
+  float: right;
+}
+.srodek {
+  background-color: lightgrey;
+  width:80%;
+  height:60%;
+  float: middle;
+
+}
+.wrapper2 {
+  background-color: yellow;
+  width: 1000px;
+  height: 200px;
+  margin: 0 auto;
+}
+
+.stopka {
+  background-color: blue;
+  height: 100%;
+  width: 20%;
+  float: left;
+}
+.stopka2 {
+  background-color: lightblue;
+  height: 100%;
+  width: 20%;
+  float: right;
+}
+.stopka3 {
+  background-color: darkblue;
+  height: 200px;
+  width: auto;
+
+}
+.flet {
+  background-color: purple;
+  height: 50%;
+  width: 60%;
+  float: middle;
+  margin: 0 auto;
+}
+.flet2 {
+  background-color: orange;
+  height: 50%;
+  width: 60%;
+  float: middle;
+
+  margin: 0 auto;
+}

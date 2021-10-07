@@ -1,0 +1,106 @@
+*{
+  margin:0px;
+  padding:0px;
+}
+.wrapper {
+  height: 1024px;
+  width: 1440px;
+  background-color: blue;
+  text-align: center;
+  line-height: 200px;
+  font-size: 50px;
+  color: white;
+  margin: 0 auto;
+}
+.napisy{
+  height: auto;
+  width: 80%;
+  float:right;
+  text-align: right;
+
+
+}
+.lista {
+  height: 1024px;
+  width: 20%;
+  float: left;
+  background-color: lightgrey;
+}
+.button0 {
+  height: 60px;
+  width: 90%;
+  background-color: grey;
+  margin-left: 10px;
+  margin-top: 50px;
+  border-radius: 30px;
+  border: 2px solid rgb(70, 70, 70);
+  text-align: center;
+  font-size: 36px;
+  line-height: 50px;
+  color: black;
+}
+.button1 {
+  height: 60px;
+  width:  90%;
+  background-color: grey;
+  margin-left: 10px;
+  margin-top: 10px;
+  border-radius: 30px;
+  border-radius: 30px;
+  border: 2px solid rgb(70, 70, 70);
+  text-align: center;
+  font-size: 36px;
+  line-height: 50px;
+}
+.button2 {
+  height: 60px;
+  width:  90%;
+  background-color: grey;
+  margin-left: 10px;
+  margin-top: 10px;
+  border-radius: 30px;
+  border-radius: 30px;
+  border: 2px solid rgb(70, 70, 70);
+  text-align: center;
+  font-size: 36px;
+  line-height: 50px;
+}
+.button3 {
+  height: 60px;
+  width: 90%;
+  background-color: grey;
+  margin-left: 10px;
+  margin-top: 10px;
+  border-radius: 30px;
+  border-radius: 30px;
+  border: 2px solid rgb(70, 70, 70);
+  text-align: center;
+  font-size: 36px;
+  line-height: 50px;
+}
+.button4 {
+  height: 60px;
+  width: 90%;
+  background-color: grey;
+  margin-left: 10px;
+  margin-top: 10px;
+  border-radius: 30px;
+  border-radius: 30px;
+  border: 2px solid rgb(70, 70, 70);
+  text-align: center;
+  font-size: 36px;
+  line-height: 50px;
+}
+.button5 {
+  height: 60px;
+  width: 90%;
+  background-color: grey;
+  margin-left: 10px;
+  margin-top: 10px;
+  border-radius: 30px;
+  border-radius: 30px;
+  border: 2px solid rgb(70, 70, 70);
+  text-align: center;
+  font-size: 36px;
+  line-height: 50px;
+}
