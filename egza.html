@@ -6,27 +6,7 @@
     <link rel="stylesheet" href="egza.css">
   </head>
   <body>
-    <?php
-    $server = "localhost";
-    $user = "root";
-    $pass = "";
-    $baza = "baza";
-
-    $mysqli = new mysqli ($server, $user, $pass, $baza);
-
-    if ($mysqli -> connect_errno){
-    echo "niepolaczone". $mysqli -> connect_error;
-    exit();
-
-    }
-    $zapytanie1 = 'SELECT `id`,`nazwa`,`wystepowanie`,`styl_zycia`  FROM `ryby` WHERE 1 ;';
-    $wynik1 = $mysqli->query($zapytanie1);
-
-    if ($wynik1->num_rows > 0){
-        while ($rekord = $wynik1->fetch_assoc()){
-          echo "<li>".$rekord["id"]."&nbsp;".$rekord["nazwa"]."&nbsp;".$rekord["wystepowanie"]."</li>";
-        }
-      }
+    
 
     <div class="jeden"><h1>napis</h1></div>
     <div class="wrapper">
